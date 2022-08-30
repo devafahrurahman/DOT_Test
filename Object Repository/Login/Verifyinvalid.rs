@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verifyinvalid</name>
+   <tag></tag>
+   <elementGuidId>2980ee70-4a9b-43c4-b14c-65c57cd7e1da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='_9ay7']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='_9ay7']</value>
+      <webElementGuid>08e7781c-d6c1-4e3c-b15c-041a13b6fff4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
